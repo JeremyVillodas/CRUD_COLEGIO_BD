@@ -1,0 +1,15 @@
+C:\Users\Alumno\Desktop\CRUD_COLEGIO_BD\CRUD_COLEGIO_BD\bin\Debug\CRUD_COLEGIO_BD.exe.config
+C:\Users\Alumno\Desktop\CRUD_COLEGIO_BD\CRUD_COLEGIO_BD\bin\Debug\CRUD_COLEGIO_BD.exe
+C:\Users\Alumno\Desktop\CRUD_COLEGIO_BD\CRUD_COLEGIO_BD\bin\Debug\CRUD_COLEGIO_BD.pdb
+C:\Users\Alumno\Desktop\CRUD_COLEGIO_BD\CRUD_COLEGIO_BD\obj\Debug\CRUD_COLEGIO_BD.csproj.AssemblyReference.cache
+C:\Users\Alumno\Desktop\CRUD_COLEGIO_BD\CRUD_COLEGIO_BD\obj\Debug\CRUD_COLEGIO_BD.Login.resources
+C:\Users\Alumno\Desktop\CRUD_COLEGIO_BD\CRUD_COLEGIO_BD\obj\Debug\CRUD_COLEGIO_BD.mantenimiento_cursos.resources
+C:\Users\Alumno\Desktop\CRUD_COLEGIO_BD\CRUD_COLEGIO_BD\obj\Debug\CRUD_COLEGIO_BD.mantenimiento_docentes.resources
+C:\Users\Alumno\Desktop\CRUD_COLEGIO_BD\CRUD_COLEGIO_BD\obj\Debug\CRUD_COLEGIO_BD.mantenimiento_estudiantes.resources
+C:\Users\Alumno\Desktop\CRUD_COLEGIO_BD\CRUD_COLEGIO_BD\obj\Debug\CRUD_COLEGIO_BD.mantenimiento_notas.resources
+C:\Users\Alumno\Desktop\CRUD_COLEGIO_BD\CRUD_COLEGIO_BD\obj\Debug\CRUD_COLEGIO_BD.Properties.Resources.resources
+C:\Users\Alumno\Desktop\CRUD_COLEGIO_BD\CRUD_COLEGIO_BD\obj\Debug\CRUD_COLEGIO_BD.Seleccion_mantenimiento.resources
+C:\Users\Alumno\Desktop\CRUD_COLEGIO_BD\CRUD_COLEGIO_BD\obj\Debug\CRUD_COLEGIO_BD.csproj.GenerateResource.cache
+C:\Users\Alumno\Desktop\CRUD_COLEGIO_BD\CRUD_COLEGIO_BD\obj\Debug\CRUD_COLEGIO_BD.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Desktop\CRUD_COLEGIO_BD\CRUD_COLEGIO_BD\obj\Debug\CRUD_COLEGIO_BD.exe
+C:\Users\Alumno\Desktop\CRUD_COLEGIO_BD\CRUD_COLEGIO_BD\obj\Debug\CRUD_COLEGIO_BD.pdb
